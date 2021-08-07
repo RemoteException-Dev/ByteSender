@@ -1,3 +1,8 @@
+# IMPORTANT
+
+> PLEASE USE A VPN WHEN EXECUTING!
+> Best free VPN: [Click me!](https://www.hotspotshield.com/)
+
 # 𝙱𝚢𝚝𝚎𝚂𝚎𝚗𝚍𝚎𝚛 
 
 > 𝚆𝚑𝚊𝚝 𝚒𝚜 𝙱𝚢𝚝𝚎𝚂𝚎𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝚠𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚒𝚝 𝚍𝚘?
