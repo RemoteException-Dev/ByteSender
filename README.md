@@ -15,7 +15,11 @@
 # Installation
 
 > Open a CMD
+
 > type 'pip install -U colorama mcstatus Pillow'
+
 > Wait for it to Install
+
 > Doubleclick the main.py
+
 > You're done!
